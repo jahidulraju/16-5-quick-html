@@ -1,0 +1,36 @@
+logo
+images/logo.png
+
+otherviews
+landings
+pages
+apps
+docs
+
+its time to amplify your online business
+
+lorem ipsum dolor sit amet,consectetur adipisicing
+ elite,sed do  eiusmod tempor incididunt ut labor 
+ et dolore magna aliqua ,ut enim ad minim veniam
+
+ images/banner.png
+
+ 3k+
+
+ excepteur sint occaecat cupidatat non prodient,
+ sunt in culpa qui officia deserunt mollit anim id 
+ est laborum.
+
+ successfully completed projects & ideas
+
+ images/card1.png
+ images/card2.png
+ images/card3.png
+
+ Unleash your creativity
+
+ duis aute irure dolore in reprehenderit
+ in voluoptate velit esse cillum dolore 
+ eu fugiat nulla pariatur.
+
+ Copyright by Jahidul Raju.Allright Reserved 2024
